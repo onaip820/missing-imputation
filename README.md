@@ -17,6 +17,10 @@ Separator level: 50 to 30 at 70 min;
 Reactor level: 75 to 65 at 90 min;
 Reactor press: 2800 to 2000 at 120 min.
 
-
+## Reference paper & their code
+### [BRITS](https://github.com/caow13/BRITS.git)
+### [GAIN](https://github.com/jsyoon0823/GAIN.git)
+### [MisGAN](https://github.com/steveli/misgan.git)
+[ImportError: cannot import name 'PILLOW_VERSION' from 'PIL'](https://blog.csdn.net/weixin_45021364/article/details/104600802)：将对应文件中PILLOW_VERSION修改为__version__即可
 
 We will share the corresponding code later, please waiting for More!!!
